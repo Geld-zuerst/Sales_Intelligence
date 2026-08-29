@@ -1,0 +1,21 @@
+Product_ID,Product_Name,Category,Brand,Cost_Price,Supplier
+P101,Wireless Mouse,Electronics,Logitech,700,S007
+P102,Keyboard,Electronics,HP,300,S004
+P103,USB-C Cable,Electronics,Portronics,120,S008
+P104,Laptop Stand,Accessories,AmazonBasics,650,S005
+P105,Power Bank,Electronics,Ambrane,900,S007
+P106,Notebook,Stationery,Classmate,35,S010
+P107,Gel Pen Set,Stationery,Cello,60,S003
+P108,Desk Organizer,Stationery,Kangaro,80,S007
+P109,Water Bottle,Home & Kitchen,Milton,250,S008
+P110,Backpack,Accessories,Skybags,900,S005
+P111,Desk Lamp,Home & Kitchen,Philips,500,S004
+P112,Headphones,Electronics,JBL,1400,S008
+P113,Webcam,Electronics,Logitech,1800,S008
+P114,Phone Stand,Accessories,Portronics,180,S003
+P115,Bluetooth Speaker,Electronics,JBL,1800,S006
+P116,Calculator,Stationery,Casio,350,S005
+P117,Sticky Notes,Stationery,Classmate,25,S002
+P118,Office Chair,Home & Kitchen,Green Soul,6500,S008
+P119,LED Strip,Home & Kitchen,Philips,450,S006
+P120,Travel Pouch,Accessories,Wildcraft,300,S002
