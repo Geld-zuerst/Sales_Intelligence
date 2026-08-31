@@ -1,21 +1,31 @@
 Product_ID,Product_Name,Category,Brand,Cost_Price,Supplier
-P101,Wireless Mouse,Electronics,Logitech,700,S007
-P102,Keyboard,Electronics,HP,300,S004
-P103,USB-C Cable,Electronics,Portronics,120,S008
-P104,Laptop Stand,Accessories,AmazonBasics,650,S005
-P105,Power Bank,Electronics,Ambrane,900,S007
-P106,Notebook,Stationery,Classmate,35,S010
-P107,Gel Pen Set,Stationery,Cello,60,S003
-P108,Desk Organizer,Stationery,Kangaro,80,S007
-P109,Water Bottle,Home & Kitchen,Milton,250,S008
-P110,Backpack,Accessories,Skybags,900,S005
-P111,Desk Lamp,Home & Kitchen,Philips,500,S004
-P112,Headphones,Electronics,JBL,1400,S008
-P113,Webcam,Electronics,Logitech,1800,S008
-P114,Phone Stand,Accessories,Portronics,180,S003
-P115,Bluetooth Speaker,Electronics,JBL,1800,S006
-P116,Calculator,Stationery,Casio,350,S005
-P117,Sticky Notes,Stationery,Classmate,25,S002
-P118,Office Chair,Home & Kitchen,Green Soul,6500,S008
-P119,LED Strip,Home & Kitchen,Philips,450,S006
-P120,Travel Pouch,Accessories,Wildcraft,300,S002
+P001,Wireless Mouse,Electronics,Logitech,700,S001
+P002,Mechanical Keyboard,Electronics,HP,2200,S002
+P003,USB-C Cable,Electronics,Portronics,180,S003
+P004,Laptop Stand,Accessories,AmazonBasics,850,S004
+P005,Power Bank 20000mAh,Electronics,Ambrane,1100,S005
+P006,Notebook A5,Stationery,Classmate,45,S006
+P007,Gel Pen Set,Stationery,Cello,75,S007
+P008,Desk Organizer,Stationery,Kangaro,120,S008
+P009,Steel Water Bottle,Home & Kitchen,Milton,350,S009
+P010,Laptop Backpack,Accessories,Skybags,1200,S010
+P011,LED Desk Lamp,Home & Kitchen,Philips,650,S001
+P012,Wireless Headphones,Electronics,JBL,1800,S002
+P013,Full HD Webcam,Electronics,Logitech,2100,S003
+P014,Mobile Phone Stand,Accessories,Portronics,220,S004
+P015,Bluetooth Speaker,Electronics,JBL,2300,S005
+P016,Scientific Calculator,Stationery,Casio,700,S006
+P017,Sticky Notes Pack,Stationery,Classmate,35,S007
+P018,Ergonomic Office Chair,Home & Kitchen,Green Soul,6500,S008
+P019,LED Strip Light,Home & Kitchen,Philips,550,S009
+P020,Travel Pouch,Accessories,Wildcraft,400,S010
+P021,External SSD 500GB,Electronics,SanDisk,3800,S001
+P022,USB Hub,Electronics,TP-Link,700,S002
+P023,Monitor 24-inch,Electronics,Samsung,9000,S003
+P024,Tablet Stand,Accessories,AmazonBasics,600,S004
+P025,Smart LED Bulb,Home & Kitchen,Philips,450,S005
+P026,Planner 2026,Stationery,Classmate,180,S006
+P027,Marker Set,Stationery,Camlin,130,S007
+P028,File Folder Pack,Stationery,Kangaro,90,S008
+P029,Coffee Mug,Home & Kitchen,Milton,250,S009
+P030,Travel Backpack,Accessories,Wildcraft,1800,S010
