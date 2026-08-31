@@ -18,7 +18,6 @@ Sales-Intelligence/
 │   ├── product_analysis.py
 │   ├── customer_analysis.py
 │   ├── rfm.py
-│   ├── regional_analysis.py
 │   ├── visualization.py
 │   └── insights.py
 │

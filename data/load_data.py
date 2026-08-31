@@ -1,25 +1,37 @@
 import pandas as pd
-import os
 
-data_dir = os.path.dirname(os.path.abspath(__file__))
+product = pd.read_csv("data/products.csv")
+customers = pd.read_csv("data/customers.csv")
+sales = pd.read_csv("data/sales.csv")
 
-
-csv_files = []
-for file in os.listdir(data_dir):
-    if file.endswith('.csv'):
-        csv_files.append(file)
-
-
-dataframes = {}
-for csv_file in csv_files:
-    file_path = os.path.join(data_dir, csv_file)
-    df = pd.read_csv(file_path)
-    dataframes[csv_file] = df
-    print("Loaded " + csv_file + ": " + str(df.shape))
+def customer():
+    print(customers.head())
+    print("~"*80)
+    print(customers.info())
+    print("~"*80)
+    print(customers.describe())
 
 
-for name in dataframes:
-    df = dataframes[name]
-    print("\n" + name + ":")
-    print(df.head())
- 
+def sale():
+    print(sales.head())
+    print("~"*80)
+    print(sales.info())
+    print("~"*80)
+    print(sales.describe())
+
+
+def product():
+    print(product.head())
+    print("~"*80)
+    print(product.info())
+    print("~"*80)
+    print(product.describe())
+
+
+# CALLING FUNCTIONS
+a = customer()
+
+# print(a)
+
+if a.to_csv("a.csv"):
+    print('exported')
